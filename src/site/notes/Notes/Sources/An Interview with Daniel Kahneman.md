@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Sources/An Interview with Daniel Kahneman.md","permalink":"/sources/an-interview-with-daniel-kahneman/","tags":["psychology"],"noteIcon":"","created":"2024-03-30T12:25:56.575-07:00","updated":"2024-04-12T19:37:59.657-07:00"}
+{"dg-publish":true,"dg-path":"Sources/An Interview with Daniel Kahneman.md","permalink":"/sources/an-interview-with-daniel-kahneman/","tags":["psychology"],"noteIcon":"","created":"2024-03-30T12:25:56.575-07:00","updated":"2024-04-12T19:39:09.442-07:00"}
 ---
 
 
